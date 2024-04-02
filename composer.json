@@ -1,0 +1,21 @@
+{
+    "name": "alpumpur/demo_collect2",
+    "description": "Description",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alPumpur",
+            "email": "aleftinapumpur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Middlewares\\": "src/Middlewares/"
+        }
+    }
+}
