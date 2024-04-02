@@ -1,6 +1,6 @@
 <?php
 
-namespace Middlewares;
+namespace demo_collect2\Middlewares;
 
 use Src\Request;
 

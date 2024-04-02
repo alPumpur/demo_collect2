@@ -1,5 +1,5 @@
 <?php
-namespace Middlewares;
+namespace demo_collect2\Middlewares;
 use Src\Auth\Auth;
 use Src\Request;
 class AdminSysMiddleware
